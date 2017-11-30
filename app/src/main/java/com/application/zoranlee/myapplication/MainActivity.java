@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.application.zoranlee.myapplication.ui.TabFragmentActivity;
+import com.application.zoranlee.myapplication.ui.activity.TabFragmentActivity;
 
 /**
  * @author xhc

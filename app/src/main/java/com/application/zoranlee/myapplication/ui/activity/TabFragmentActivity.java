@@ -1,4 +1,4 @@
-package com.application.zoranlee.myapplication.ui;
+package com.application.zoranlee.myapplication.ui.activity;
 
 import android.os.Bundle;
 import android.support.annotation.IdRes;
