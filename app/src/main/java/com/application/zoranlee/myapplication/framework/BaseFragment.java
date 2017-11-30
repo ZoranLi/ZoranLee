@@ -1,6 +1,7 @@
 package com.application.zoranlee.myapplication.framework;
 
-import android.app.Fragment;
+
+import android.support.v4.app.Fragment;
 
 /**
  * description：基类
