@@ -1,4 +1,4 @@
-##RESTful API 设计指南
+## RESTful API 设计指南
 http://www.ruanyifeng.com/blog/2014/05/restful_api.html
 
 因此，必须有一种统一的机制，方便不同的前端设备与后端进行通信。这导致API构架的流行，甚至出现"API First"的设计思想。RESTful API是目前比较成熟的一套互联网应用程序的API设计理论。我以前写过一篇《理解RESTful架构》，探讨如何理解这个概念。
